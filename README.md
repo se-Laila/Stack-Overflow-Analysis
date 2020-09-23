@@ -41,5 +41,6 @@ And here is a summary of the results of the analysis:
 The code should run with no issues using Python versions 3.*. There should be no necessary libraries to run the code beyond the Anaconda distribution of Python.
 
 ## Licensing, Authors, Acknowledgements
-Credit goes to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020). Credit also goes to Stack Overflow community where I found solutions to most of the issues I faced ☺
+Credit goes to Stack Overflow for the data: https://insights.stackoverflow.com/survey/ 
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020). Credit also goes to Stack Overflow community where I found solutions to most of the issues I faced ☺
 

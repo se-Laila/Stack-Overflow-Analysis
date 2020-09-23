@@ -17,9 +17,7 @@ The motivation behind this project is to use CRISP-DM methodology to conduct an 
 - What are the trends of programming languages between 2018 and 2020?
 
 ## File Descriptions
-There are 1 folder and 4 notebooks here of the analysis conducted to answer the above questions:
-Data folder: has the data used in this analysis. The raw data files contained were copied from Stack Overflow website
-https://insights.stackoverflow.com/survey/
+There are 4 notebooks here of the analysis conducted to answer the above questions:
 
  - **File1:** Contains the analysis conducted to answer the question: Does organization size affect the developers’ level of influence on technology purchase? 
  - **File2:** Contains the analysis conducted to answer the question: Compare between different countries of organizations and their effect on the developers level of influence on technology purchase
